@@ -118,7 +118,7 @@ article.preview {
 article.preview p.readmore {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   margin-top: 1em;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: 400;
 }
 /* === Header === */
@@ -204,7 +204,7 @@ section.author p.attr,
 section.share p.info {
   font-size: 16px;
   line-height: 20px;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
 }
 section.share p.info.prompt {
@@ -228,7 +228,7 @@ blockquote {
   font-weight: 300;
   line-height: 1.2em;
   font-style: italic;
-  text-transform: lowercase;
+  text-transform: uppercase;
   border-left: 0.4em solid rgba(0, 0, 0, 0.05);
   margin-left: 1em;
   padding-right: 1.5em;
@@ -240,7 +240,7 @@ blockquote {
   font-size: 18px;
   font-weight: 300;
   margin-top: 0.3em;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 .tags {
   font-size: 16px;
@@ -304,7 +304,7 @@ footer section {
   font-size: 18px;
   margin: 0 auto;
   max-width: 600px;
-  text-transform: lowercase;
+  text-transform: uppercase;
   width: 90%;
 }
 footer.post-footer {
@@ -337,7 +337,7 @@ nav ul li {
   margin: 0;
   padding: 0 .5em;
   text-align: center;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 nav ul li a {
   display: block;
@@ -379,14 +379,14 @@ a.archive-link {
   margin-top: 3em;
   padding: .5em 0;
   text-align: center;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 .pagination {
   position: relative;
   width: 100%;
   max-width: 600px;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-size: 20px;
   color: #596364;
   text-align: center;
@@ -433,7 +433,7 @@ a.archive-link {
 .gist .gist-file .gist-meta {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif !important;
   font-weight: 300 !important;
-  text-transform: lowercase !important;
+  text-transform: uppercase !important;
   display: none !important;
   /* Hide GitHub attribution */
 }
@@ -551,7 +551,7 @@ section.post-content h4 {
 section.post-content h4 {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   font-size: 23px;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: 300;
 }
 
@@ -595,7 +595,7 @@ section.post-content li {
 p.backtotop {
   font-size: 16px;
   line-height: 20px;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   top: 5px;
   position: relative;
@@ -675,7 +675,7 @@ h1.posts-tagged {
   max-width: 600px;
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   color: #596364;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-weight: 400;
   font-size: 16px;
 }
