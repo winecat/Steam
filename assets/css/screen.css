@@ -256,19 +256,19 @@ div.authorimage {
   margin-right: 17px;
   float: left;
 }
-h1.post-title {
+h2.post-title {
   margin-top: 25px;
 }
-h1.post-title a,
-h1.blog-title a {
+h2.post-title a,
+h2.blog-title a {
   color: #151515;
   transition: color ease 0.7s;
   -webkit-transition: color ease 0.7s;
 }
-h1.post-title a:focus,
-h1.post-title a:hover,
-h1.blog-title a:focus,
-h1.blog-title a:hover {
+h2.post-title a:focus,
+h2.post-title a:hover,
+h2.blog-title a:focus,
+h2.blog-title a:hover {
   /*color: #178b6b;*/
   text-decoration: none;
 }
