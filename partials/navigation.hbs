@@ -1,8 +1,8 @@
 <nav class="menu" role="nav">
     <ul>
         {{#foreach navigation}}
-                <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}"><a href="{{url absolute="true"}}">{{label}}</a></li>
-                <li role="presentation"><a href="{{url absolute="true"}}">{{label}}</a></li>
+                <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}"><a href="{{{{tag}} absolute="true"}}">Tag</a></li>
+                <li role="presentation"><a href="{{{{author}} absolute="true"}}">aboutMe</a></li>
         {{/foreach}}
     </ul>
 </nav>
