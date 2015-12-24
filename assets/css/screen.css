@@ -142,7 +142,8 @@ h2.blog-description {
   text-align: left;
 }
 h1.blog-title {
-  font-family: "Consolas", "Courier New", Arial, "Nimbus L", sans-serif;
+  font-family: Helvetica, Tahoma, Arial, SimSun, "Nimbus L", sans-serif;
+  font-weight:bold;
   font-size: 32px;
   line-height: 35px;
   margin-top: 80px;
